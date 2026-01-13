@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "二人三脚（feat. 猫汰つな）",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-01-13T02:48:04.040450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "二人三脚 feat. 猫汰つな",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/01_二人三脚_feat._猫汰つな_常闇トワ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二人三脚 feat. 猫汰つな",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_二人三脚_feat._猫汰つな_常闇トワ.txt"
+    }
+  ]
+}
